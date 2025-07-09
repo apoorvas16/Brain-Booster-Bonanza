@@ -1,0 +1,20 @@
+India,New Delhi
+France,Paris
+Germany,Berlin
+Australia,Canberra
+Brazil,Brasilia
+Canada,Ottawa
+China,Beijing
+Egypt,Cairo
+Japan,Tokyo
+Kenya,Nairobi
+Mexico,Mexico City
+Russia,Moscow
+South Africa,Pretoria
+Spain,Madrid
+United Kingdom,London
+United States,Washington D.C.
+Argentina,Buenos Aires
+Italy,Rome
+Norway,Oslo
+Sweden,Stockholm
